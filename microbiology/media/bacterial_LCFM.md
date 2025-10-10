@@ -3,7 +3,7 @@
 **Date updated:** 2025-10-10
 **Author:** Conor JR Scott
 **Affiliation:** State University of Milan
-**Version:** 1.0  
+**Version:** 1.1  
 **Related DOI:**  
 
 ---
@@ -132,7 +132,7 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 ---
 
 ## 🧾 Additional notes
-Tips, troubleshooting, or modifications.
+Trace metals are an optional addition. Some papers add many different trace elements. I add the common metal cofactors which may be important for enzyme activities.
 
 ---
 
@@ -141,3 +141,4 @@ Tips, troubleshooting, or modifications.
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2025-10-10 | Initial creation of protocol |
+| 1.1 | 2025-10-10 | Added a note on the inclusion of trace metals |
