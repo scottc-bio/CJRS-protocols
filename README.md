@@ -19,14 +19,23 @@ Then I will link the published version to the latest version stored here.
 
 ---
 
-## 📂 Structure
+## 📂 Navigation
 
-| Folder | Description |
-|---------|--------------|
-| `microbiology/` | Media, Culturing, and microbiology experiments for bacteria and fungi |
-| `molecular/` | Cloning, heterologous expression, and assays |
-| `templates/` | Reusable template for writing my protocols |
+<details>
+  <summary>🧫 Microbiology</summary>
 
+  - [📁 Media Preparation Folder](microbiology/media/)
+    - [Bacterial LCFM Preparation](microbiology/media/bacterial_LCFM.md)
+    - [Fungal LCFM Preparation](microbiology/media/fungal_LCFM.md)
+
+</details>
+
+<details>
+  <summary>🧩 Templates</summary>
+
+  - [Protocol Template](templates/protocol_template.md)
+
+</details>
 ---
 
 ## 🧩 Versioning
