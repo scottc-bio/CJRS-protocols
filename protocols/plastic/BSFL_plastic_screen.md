@@ -1,4 +1,6 @@
-# Screening the *Hermetia illuciens* gut microbiota for plastic-degrading taxa
+---
+title: Screening the *Hermetia illuciens* gut microbiota for plastic-degrading taxa
+---
 
 **Date updated:** 2025-10-13  
 **Author:** Conor JR Scott, Davis Roma, Francesca De Filippis, Silvia Caccia  
