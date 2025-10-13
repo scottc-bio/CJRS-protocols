@@ -1,5 +1,6 @@
 ---
 title: "Bacterial LCFM Preparation"
+permalink: /microbiology/media/bacterial_LCFM.html
 ---
 
 # Bacterial Liquid Carbon Free Media
