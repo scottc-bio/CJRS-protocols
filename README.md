@@ -19,25 +19,25 @@ Then I will link the published version to the latest version stored here.
 
 ---
 
-## 📂 Contents
+<h2>📂 Contents</h2>
 
 <details>
   <summary>🧫 Microbiology</summary>
-
-  Click the folder or a specific protocol below.
-
-  - 📁 [Media Preparation Folder](microbiology/media/)
-  
-    - 🔹 [Bacterial LCFM Preparation](microbiology/media/bacterial_LCFM.md)  
-    - 🔹 [Fungal LCFM Preparation](microbiology/media/fungal_LCFM.md)
-
+  <p>Click the folder or a specific protocol below.</p>
+  <ul>
+    <li>📁 <a href="microbiology/media/">Media Preparation Folder</a></li>
+    <ul>
+      <li>🔹 <a href="microbiology/media/bacterial_LCFM.md">Bacterial LCFM Preparation</a></li>
+      <li>🔹 <a href="microbiology/media/fungal_LCFM.md">Fungal LCFM Preparation</a></li>
+    </ul>
+  </ul>
 </details>
 
 <details>
   <summary>🧩 Templates</summary>
-
-  - 🔸 [Protocol Template](templates/protocol_template.md)
-
+  <ul>
+    <li>🔸 <a href="templates/protocol_template.md">Protocol Template</a></li>
+  </ul>
 </details>
 
 ---
