@@ -10,32 +10,12 @@ This repository will focus mainly on wet lab protocols. For bioinformatic guides
 
 ## 🧠 How to Use
 
-Each protocol is written in **Markdown** (`.md`) format and clicking on the files in each folder will allow the protocols to be viewed directly in GitHub formatted correctly. All changes to protocols are tracked automatically using **Git version control**.
+Each protocol is written in **Markdown** (`.md`) format and rendered here as HTML, visit the [repository](https://github.com/scottc-bio/protocols/) itself where files are rendered in HTML in browser or navigate via the live [page](https://scottc-bio.github.io/protocols/), where the major directories are navigable. All changes to protocols are tracked automatically using **Git version control**.
 
 When a protocol is confirmed to have worked, I will publish it:
 [protocols.io](https://www.protocols.io/workspaces/cjr_protocols)
 
 Then I will link the published version to the latest version stored here.
-
----
-
-## 📂 Contents
-
-<details>
-  <summary>🧫 Microbiology</summary>
-  <p>Click the folder or a specific protocol below.</p>
-  <ul>
-    <li>📁 <a href="microbiology/media/bacterial_LCFM.md">Bacterial LCFM Preparation</a></li>
-    <li>📁 <a href="microbiology/media/fungal_LCFM.md">Fungal LCFM Preparation</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>🧩 Templates</summary>
-  <ul>
-    <li>🔸 <a href="templates/protocol_template.md">Protocol Template</a></li>
-  </ul>
-</details>
 
 ---
 
