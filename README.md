@@ -19,7 +19,7 @@ Then I will link the published version to the latest version stored here.
 
 ---
 
-## 📂 Navigation
+## 📂 Contents
 
 <details>
   <summary>🧫 Microbiology</summary>
