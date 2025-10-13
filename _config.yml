@@ -3,4 +3,4 @@ theme: minima
 
 # Only show these pages in the navigation bar
 header_pages:
-  - microbiology/media/index.md
+  - _protocols/index.md
