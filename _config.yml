@@ -1,0 +1,6 @@
+defaults:
+  - scope:
+      path: ""  # all files
+      type: "pages"
+    values:
+      permalink: /:path/:basename.html
