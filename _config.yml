@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
 title: "Lab Protocols"
+
+# Default permalink rule for all pages except README
 defaults:
   - scope:
-      path: ""  # all files
+      path: ""      # all files
       type: "pages"
     values:
       permalink: /:path/:basename.html
