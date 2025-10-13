@@ -1,4 +1,6 @@
-# Bacterial Liquid Carbon Free Media
+---
+title: Bacterial LCFM preparation
+---
 
 **Date updated:** 2025-10-10
 **Author:** Conor JR Scott
