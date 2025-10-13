@@ -1,9 +1,2 @@
-theme: jekyll-theme-cayman
-title: "Lab Protocols"
-
-defaults:
-  - scope:
-      path: ""      # all files
-      type: "pages"
-    values:
-      permalink: /:path/:basename.html
+markdown: kramdown
+theme: minima
