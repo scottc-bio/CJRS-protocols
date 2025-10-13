@@ -1,6 +1,5 @@
 markdown: kramdown
 theme: minima
-show_title: false
 
 # Only show these pages in the navigation bar
 header_pages:
