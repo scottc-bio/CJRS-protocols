@@ -6,5 +6,5 @@ title: Browse Protocols
 
 ### Media
 
-- [Bacteria LCFM](microbiology/media/bacterial_LCFM.md)
-- [Fungal LCFM](microbiology/media/fungal_LCFM.md)
+- [Bacteria LCFM](media/bacterial_LCFM.md)
+- [Fungal LCFM](media/fungal_LCFM.md)
