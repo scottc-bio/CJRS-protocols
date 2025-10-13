@@ -3,8 +3,8 @@ title: Fungal LCFM preparation
 ---
 
 **Date updated:** 2025-10-10
-**Author:** Conor JR Scott
-**Affiliation:** State University of Milan
+**Author:** Conor JR Scott, Davis Roma, Francesca De Filippis, Silvia Caccia  
+**Affiliation:** Università degli Studi di Milano, Università degli Studi di Napoli Federico II
 **Version:** 1.0  
 **Related DOI:**  
 
