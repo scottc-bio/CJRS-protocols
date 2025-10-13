@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: minima
+theme: cayman
 
 # Only show these pages in the navigation bar
 header_pages:
