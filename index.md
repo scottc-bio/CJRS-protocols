@@ -21,7 +21,7 @@ When a protocol is confirmed to have worked, I will publish it:
 
 Then I will link the published version to the latest version stored here.
 
-[**Browse protocols here](https://scottc-bio.github.io/CJRS-protocols/protocols/)
+[**Browse protocols here**](https://scottc-bio.github.io/CJRS-protocols/protocols/)
 
 ---
 
