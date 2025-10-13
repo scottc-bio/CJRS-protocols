@@ -27,7 +27,7 @@ Then I will link the published version to the latest version stored here.
   <ul>
     <li>📁 <a href="microbiology/media/">Media Preparation Folder</a></li>
     <ul>
-      <li>🔹 <a href="microbiology/media/bacterial_LCFM.md">Bacterial LCFM Preparation</a></li>
+      <li>🔹 <a href="microbiology/media/bacterial_LCFM.html">Bacterial LCFM Preparation</a></li>
       <li>🔹 <a href="microbiology/media/fungal_LCFM.md">Fungal LCFM Preparation</a></li>
     </ul>
   </ul>
