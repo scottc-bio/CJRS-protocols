@@ -1,5 +1,5 @@
 ---
-title: 🧬 Lab Protocols Repository
+title: Lab Protocols Repository
 ---
 
 Welcome to my personal collection of in-development protocols for wetlab work.
