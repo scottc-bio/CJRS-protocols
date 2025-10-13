@@ -1,2 +1,7 @@
 markdown: kramdown
 theme: minima
+
+# Define the items that appear in the top navigation bar
+header_pages:
+  - index.md
+  - protocols/index.md
