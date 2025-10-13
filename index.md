@@ -10,6 +10,8 @@ My protocols will be publicly available here prior to publishing at [protocols.i
 This repository will focus mainly on wet lab protocols. For bioinformatic guides, why not visit my website with guides on bioinformatic analysis of metagenomic data for beginners:
 [Bioinformatic guides for beginners](https://scottc-bio.github.io/)
 
+---
+
 ## 🧠 How to Use
 
 Each protocol is written in **Markdown** (`.md`) format and rendered here as HTML, visit the [repository](https://github.com/scottc-bio/protocols/) itself where files are rendered in HTML in browser or navigate via the live [page](https://scottc-bio.github.io/protocols/), where the major directories are navigable. All changes to protocols are tracked automatically using **Git version control**.
