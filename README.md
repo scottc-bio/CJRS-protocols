@@ -24,18 +24,22 @@ Then I will link the published version to the latest version stored here.
 <details>
   <summary>🧫 Microbiology</summary>
 
-  - [📁 Media Preparation Folder](microbiology/media/)
-    - [Bacterial LCFM Preparation](microbiology/media/bacterial_LCFM.md)
-    - [Fungal LCFM Preparation](microbiology/media/fungal_LCFM.md)
+  Click the folder or a specific protocol below.
+
+  - 📁 [Media Preparation Folder](microbiology/media/)
+  
+    - 🔹 [Bacterial LCFM Preparation](microbiology/media/bacterial_LCFM.md)  
+    - 🔹 [Fungal LCFM Preparation](microbiology/media/fungal_LCFM.md)
 
 </details>
 
 <details>
   <summary>🧩 Templates</summary>
 
-  - [Protocol Template](templates/protocol_template.md)
+  - 🔸 [Protocol Template](templates/protocol_template.md)
 
 </details>
+
 ---
 
 ## 🧩 Versioning
