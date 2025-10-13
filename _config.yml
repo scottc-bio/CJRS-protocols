@@ -1,7 +1,7 @@
 markdown: kramdown
 theme: minima
 
-# Define the items that appear in the top navigation bar
+# Only show these pages in the navigation bar
 header_pages:
-  - index.md
-  - protocols/index.md
+  - README.md
+  - protocols/microbiology/media/index.md
