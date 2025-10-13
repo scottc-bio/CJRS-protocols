@@ -1,11 +1,6 @@
 markdown: kramdown
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: pages-themes/modernist@v0.2.0
+theme: minima
 
 # Only show these pages in the navigation bar
 header_pages:
-  - README.md
   - microbiology/media/index.md
