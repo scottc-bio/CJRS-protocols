@@ -1,5 +1,5 @@
 ---
-title: Screening the *Hermetia illuciens* gut microbiota for plastic-degrading taxa
+title: Screening the BSFL gut microbiota for plastic-degrading taxa
 ---
 
 **Date updated:** 2025-10-13  
@@ -11,7 +11,7 @@ title: Screening the *Hermetia illuciens* gut microbiota for plastic-degrading t
 ---
 
 ## 🧪 Abstract
-A protocol for the initial screening of plastic-degrading fungal or bacterial taxa from the gut microbiota of *H. illuciens* reared on a standard diet or diets containing polyethylene (PE), polystyrene (PS), or polypropylene (PP). Screening is based on bacterial or fungal growth in liquid cultures or solid media containing plastic particles of PE, PS, or PP.
+A protocol for the initial screening of plastic-degrading fungal or bacterial taxa from the gut microbiota of *Hermetia illuciens* (BSFL) reared on a standard diet or diets containing polyethylene (PE), polystyrene (PS), or polypropylene (PP). Screening is based on bacterial or fungal growth in liquid cultures or solid media containing plastic particles of PE, PS, or PP.
 
 ---
 
