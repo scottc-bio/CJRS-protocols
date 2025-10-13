@@ -3,7 +3,7 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 # Only show these pages in the navigation bar
 header_pages:
