@@ -4,4 +4,4 @@ theme: minima
 # Only show these pages in the navigation bar
 header_pages:
   - README.md
-  - protocols/microbiology/media/index.md
+  - microbiology/media/index.md
