@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Lab Protocols"
 
-# Default permalink rule for all pages except README
 defaults:
   - scope:
       path: ""      # all files
