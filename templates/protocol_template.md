@@ -1,4 +1,6 @@
-# [Protocol Title]
+---
+ title: [Protocol Title]
+---
 
 **Date updated:** YYYY-MM-DD  
 **Author:** [Name]  
