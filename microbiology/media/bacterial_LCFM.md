@@ -1,3 +1,7 @@
+---
+title: "Bacterial LCFM Preparation"
+---
+
 # Bacterial Liquid Carbon Free Media
 
 **Date updated:** 2025-10-10
