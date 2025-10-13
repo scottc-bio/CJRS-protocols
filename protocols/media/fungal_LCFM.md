@@ -1,4 +1,6 @@
-# Fungal Liquid Carbon Free Media
+---
+title: Fungal LCFM preparation
+---
 
 **Date updated:** 2025-10-10
 **Author:** Conor JR Scott
