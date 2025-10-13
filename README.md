@@ -1,6 +1,4 @@
----
-title: Lab Protocols Repository
----
+# Lab protocols repository
 
 Welcome to my personal collection of in-development protocols for wetlab work.
 This repository will serve as a record of my laboratory methods and approaches, with a major focus on microbiology and molecular biology, from the basics of media to experimental protocols specific to my research.
