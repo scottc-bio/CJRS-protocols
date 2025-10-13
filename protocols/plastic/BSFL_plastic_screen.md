@@ -89,6 +89,7 @@ Wear goggles and a mask when handling plastic particles.
 3. Prepare 6 sterile eppendorfs for each of the conditions
   - Label each with: “STD:PE”, “STD:PS”, “STD:PP”, “PE”, “PS”, “PP”
 
+
 4. Starting with the STD reared larvae, select 3 larvae, rinse with tap water to remove diet, then clean with 70 % (v/v) ethanol
 
 5. Dissect each larvae to extract the midgut and place all 3 midguts in the same tube labelled “STD:PE”
@@ -110,9 +111,11 @@ Wear goggles and a mask when handling plastic particles.
 1. Add 50 mL Fungal LCFM to 6 x 100 mL conical flasks
   - Label each with: “STD:PE”, “STD:PS”, “STD:PP”, “PE”, “PS”, “PP”
 
+
 2. Add 50 mL Bacterial LCFM to 12 x 100 mL conical flasks
   - Label 6 flasks with: “STD:PE”, “STD:PS”, “STD:PP”, “PE”, “PS”, “PP” + “Aerobic”
   - Label 6 flasks with: “STD:PE”, “STD:PS”, “STD:PP”, “PE”, “PS”, “PP” + “Anaerobic”
+
 
 3. Seal flasks and autoclave
 
@@ -136,6 +139,7 @@ Wear goggles and a mask when handling plastic particles.
   - Label 2 of each of these (8 in total) with “Bacterial”
   - Take 1 of each condition labelled “Bacterial” (4 in total) and label with “Aerobic”
   - Take 1 of each condition labelled “Bacterial” (the remaining 4) and label with “Anaerobic”
+
 
 4. Prepare 72 sterile falcon tubes labelled in the same way
 
