@@ -4,7 +4,7 @@ title: Bacterial LCFM preparation
 
 **Date updated:** 2025-10-10
 **Author:** Conor JR Scott
-**Affiliation:** State University of Milan
+**Affiliation:** Università degli Studi di Milano
 **Version:** 1.1  
 **Related DOI:**  
 
