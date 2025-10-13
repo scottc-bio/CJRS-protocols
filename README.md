@@ -1,8 +1,3 @@
----
-title: "Lab Protocols"
-permalink: /
----
-
 # 🧬 Lab Protocols Repository
 
 Welcome to my personal collection of in-development protocols for wetlab work.
@@ -30,15 +25,15 @@ Then I will link the published version to the latest version stored here.
   <summary>🧫 Microbiology</summary>
   <p>Click the folder or a specific protocol below.</p>
   <ul>
-    <li>📁 <a href="microbiology/media/bacterial_LCFM.html">Bacterial LCFM Preparation</a></li>
-    <li>📁 <a href="microbiology/media/fungal_LCFM.html">Fungal LCFM Preparation</a></li>
+    <li>📁 <a href="microbiology/media/bacterial_LCFM.md">Bacterial LCFM Preparation</a></li>
+    <li>📁 <a href="microbiology/media/fungal_LCFM.md">Fungal LCFM Preparation</a></li>
   </ul>
 </details>
 
 <details>
   <summary>🧩 Templates</summary>
   <ul>
-    <li>🔸 <a href="templates/protocol_template.html">Protocol Template</a></li>
+    <li>🔸 <a href="templates/protocol_template.md">Protocol Template</a></li>
   </ul>
 </details>
 
