@@ -10,37 +10,12 @@ title: Bacterial LCFM preparation
 
 ---
 
-## 🧪 Abstract
+## Abstract
 A simple protocol for the creation of a basic carbon free minimal media for bacterial growth. This is not an optimised protocol for growth, it is the base media to which different carbon sources can be added to detect bacterial growth and therefore metabolism of added carbon sources. The media can be used for liquid cultures, or combined with agar for solid media.
 
 ---
 
-## 🗝️ Keywords
-
-Microbiology, Minimal, Media, Bacterial, Carbon-Free
-
----
-
-## 📣 Disclaimer
-
-This is not an optimised media for growth. Just a carbon-free base.
-
----
-
-## 🧭 Guidelines
-
-Can adapt any of the volumes for your requirements. Also you can use whatever other glass vessels for mixing or autoclaving that you prefer or are available.
-
----
-
-## ⚠️ Warning
-
-> Always remember when autoclaving to use a larger glass vessel than the volume you want to autoclave to avoid it boiling over.
-> Always remember to leave the bottle caps loose on duran bottles when autoclaving!
-
----
-
-## 📦 Materials & Equipment
+## Materials & Equipment
 **Chemicals**
 - Na2HPO4•5H2O
 - KH2PO4
@@ -70,7 +45,7 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 
 ---
 
-## ⚙️ Method
+## Method
 
 ### 10X M9 Salts
 1. Add the following salts to a 2000 mL duran bottle:
@@ -133,14 +108,41 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 
 ---
 
-## 🧾 Additional notes
-Trace metals are an optional addition. Some papers add many different trace elements. I add the common metal cofactors which may be important for enzyme activities.
+## Additional notes
+- Trace metals are an optional addition. Some papers add many different trace elements. I add the common metal cofactors which may be important for enzyme activities.
+- I often found that when combining the components for the bacterial LCFM a white precipitant may form that persists after autoclaving, this may pose an issue for 
 
 ---
 
-## 🧠 Version History
+## Keywords
+
+Microbiology, Minimal, Media, Bacterial, Carbon-Free
+
+---
+
+## Disclaimer
+
+This is not an optimised media for growth. Just a carbon-free base.
+
+---
+
+## Guidelines
+
+Can adapt any of the volumes for your requirements. Also you can use whatever other glass vessels for mixing or autoclaving that you prefer or are available.
+
+---
+
+## Warning
+
+> Always remember when autoclaving to use a larger glass vessel than the volume you want to autoclave to avoid it boiling over.
+> Always remember to leave the bottle caps loose on duran bottles when autoclaving!
+
+---
+
+## Version History
 
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2025-10-10 | Initial creation of protocol |
 | 1.1 | 2025-10-10 | Added a note on the inclusion of trace metals |
+| 1.2 | 2025-10-23 | Re-ordered to focus on materials and methods |
