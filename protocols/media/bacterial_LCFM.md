@@ -58,6 +58,8 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 
 3. Once fully dissolved, make up to 1000 mL with dH2O and autoclave
 
+**Note:** Any impurities in water/glassware can lead to the formation of white crystals that form during autoclaving. These will dissolve when diluted to 1x when preparing LCFM, so not a huge issue. But remember to swirl the bottle of 10x salts to homogenise the solution before pouring to make LCFM. If you are intent on a no precipitant solution, then filter-sterilisation may be used as an alternative to autoclaving.
+
 ### 1000X Trace metals
 
 1. Add the following to a 250 mL beaker:
