@@ -2,10 +2,10 @@
 title: Fungal LCFM preparation
 ---
 
-**Date updated:** 2025-10-10
-**Author:** Conor JR Scott, Davis Roma, Francesca De Filippis, Silvia Caccia  
-**Affiliation:** Università degli Studi di Milano, Università degli Studi di Napoli Federico II
-**Version:** 1.0  
+**Date updated:** 2025-11-05
+**Author:** Conor JR Scott, Davis Roma
+**Affiliation:** Università degli Studi di Milano
+**Version:** 1.2
 **Related DOI:**  
 
 ---
@@ -35,19 +35,23 @@ A simple protocol for the creation of a basic carbon free minimal media for fung
 - dH2O
 
 **Glassware**
-- 2000 mL durans
-- 1000 mL durans
-- 250 mL durans
-- 100 mL durans
-- 100 mL durans (autoclaved)
-- 250 mL beaker
+- 100 mL beaker
+- 250 mL bottle
+- 500 mL beaker
+- 500 mL bottle
+
+**Plastic**
+- Sterile 50 mL falcon tubes
+- Sterile syringes (largest size possible)
+- 0.22 μm pores for filter sterilisation
 
 **Equipment**
 - Magnetic stirring equipment (not completely necessary, can stir/shake manually)
 - pH probe
 - Laminar flow hood (if unavailable, then can use a bunsen burner and good sterile technique around the sphere of influence)
-- Sterile syringes
-- 0.22 μm pores for filter sterilisation
+- P1000 + tips (sterile)
+- Autoclave
+- Aluminium foil
 
 ---
 
@@ -57,7 +61,7 @@ A simple protocol for the creation of a basic carbon free minimal media for fung
 
 **Solution 1**
 
-1. Combine the following in a 100 mL glass duran/beaker:
+1. Combine the following in a 100 mL glass beaker:
   - 1 g FeSO4•H2O
   - 12.7 g EDTA•2Na
 
@@ -67,7 +71,7 @@ A simple protocol for the creation of a basic carbon free minimal media for fung
 
 **Solution 2**
 
-3. Combine the following in a 100 mL glass duran/beaker:
+3. Combine the following in a 100 mL glass beaker:
   - 4.4 g ZnSO4•7H2O
   - 2.2 g H3BO3
   - 1 g MnCl2•4H2O
@@ -77,7 +81,7 @@ A simple protocol for the creation of a basic carbon free minimal media for fung
 
 4. Add 80 mL dH2O and stir with a magnetic stirrer until fully dissolved
 
-5. Combine solutions 1 and 2 in a 250 mL duran bottle
+5. Combine solutions 1 and 2 in a 250 mL bottle
 
 6. Adjust the pH with KOH to pH 6.5 by initially using KOH pellets, and then 1 M KOH to gradually increase the pH to the final 6.5
 
@@ -87,44 +91,49 @@ A simple protocol for the creation of a basic carbon free minimal media for fung
 
 ### 20X Fungal Minimal Salts
 
-1. Combine the following in a 2000 mL duran bottle:
-  - 120 g NaNO3
-  - 10.4 g KCl
-  - 16.3 g KH2PO4
-  - 20.9 g K2HPO4
+1. Combine the following in a 500 mL beaker:
+  - 60 g NaNO3
+  - 5.2 g KCl
+  - 8.1 g KH2PO4
+  - 10.5 g K2HPO4
 
-2. Add 800 mL dH2O and stir with a magnetic stirrer until fully dissolved
+2. Add 400 mL dH2O and stir with a magnetic stirrer until fully dissolved
 
-3. Once dissolved, make up to 1000 mL and autoclave
+3. Once dissolved, make up to 500 mL and autoclave
 
 4. Store at 4 °C
 
 ### 1 M MgSO4
 
-1. Add the following to a 250 mL beaker:
-  - 24.65 g MgSO4•7H2O
+1. Add the following to a 100 mL beaker:
+  - 12.3 g MgSO4•7H2O
 
-2. Add 80 mL dH2O and stir with a magnetic stirrer until dissolved
+2. Add 40 mL dH2O and stir with a magnetic stirrer until dissolved
 
-3. Once fully dissolved, make up to 100 mL with dH2O
+3. Once fully dissolved, make up to 50 mL with dH2O
 
-4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into an empty autoclaved 100 mL duran bottle
+4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into a sterile falcon tube
 
 ### Preparing Liquid Carbon Free Media (LCFM)
 
-1. Combine the following in a 2000 mL duran bottle:
-  - 50 mL 20X fungal minimal salts
-  - 2 mL 1 M MgSO4
-  - 1 mL Hutner's trace elements
+1. Combine the following in a 500 mL duran bottle:
+  - 20 mL 20X fungal minimal salts
+  - 0.8 mL 1 M MgSO4
+  - 0.4 mL Hutner's trace elements
 
-2. Make up to 1000 mL with dH2O
+2. Make up to 400 mL with dH2O
 
-3. The media is now ready for liquid cultures or LCFM agar plates
+3. Autoclave and allow to cool
+
+4. The media is now ready for liquid cultures
+
+**Note:** After autoclaving a white precipitant may be visible, but this will dissapear upon cooling.
+
 ---
 
 ## Additional notes ##
 
-Take the ph adjustment of the Hutner's elements step slowly, don't add too much high concentration KOH and go over 6.5. You want to avoid causing precipitation of the salts.
+To make minimal media agar, just add 6 g of bacteriological agar to the LCFM prior to autoclaving.
 
 ---
 
@@ -160,3 +169,4 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 |----------|------|----------|
 | 1.0 | 2025-10-10 | Initial creation of protocol |
 | 1.1 | 2025-10-23 | Re-ordered to focus on materrials and methods; Changed recipe to EDTA di-sodium salt; Improved notes on solution 1 pH adjustment |
+| 1.2 | 2025-11-05 | Reduction of volumes to be more reasonable |
