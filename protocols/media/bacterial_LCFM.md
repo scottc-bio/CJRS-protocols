@@ -3,9 +3,9 @@ title: Bacterial LCFM preparation
 ---
 
 **Date updated:** 2025-10-10
-**Author:** Conor JR Scott, Davis Roma, Francesca De Filippis, Silvia Caccia  
-**Affiliation:** Università degli Studi di Milano, Università degli Studi di Napoli Federico II
-**Version:** 1.1  
+**Author:** Conor JR Scott, Davis Roma 
+**Affiliation:** Università degli Studi di Milano
+**Version:** 1.3
 **Related DOI:**  
 
 ---
@@ -27,92 +27,107 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 - ZnSO4•7H2O
 - MgSO4•7H2O
 - CaCl2
+- 0.1 M HCl
 - dH2O
 
 **Glassware**
-- 2000 mL durans
-- 1000 mL durans
-- 250 mL durans
-- 100 mL durans
-- 100 mL durans (autoclaved)
-- 250 mL beaker
+- 500 mL beaker
+- 500 mL bottle
+- 500 mL bottle (autoclaved)
+- 100 mL beaker
+
+
+**Plastic**
+- Sterile 50 mL falcon tubes
+- Sterile syringes (largest size possible)
+- 0.22 μm pores for filter sterilisation
 
 **Equipment**
 - Magnetic stirring equipment (not completely necessary, can stir/shake manually)
-- Laminar flow hood (if unavailable, then can use a bunsen burner and good sterile technique around the sphere of influence)
-- Sterile syringes
-- 0.22 μm pores for filter sterilisation
+- Laminar flow hood (if unavailable, then can use a bunsen burner and good sterile technique)
+- P1000 pipette + tips
+- 
 
 ---
 
 ## Method
 
 ### 10X M9 Salts
-1. Add the following salts to a 2000 mL duran bottle:
-  - 55 g Na2HPO4•5H2O
-  - 15 g KH2PO4
-  - 2.5 g NaCl
-  - 5 g NH4Cl
+1. Add the following salts to a 500 mL beaker:
+  - 27.5 g Na2HPO4•5H2O
+  - 7.5 g KH2PO4
+  - 1.25 g NaCl
+  - 2.5 g NH4Cl
 
-2. Add 800 mL dH2O and stir with a magnetic stirrer until dissolved
+2. Add 400 mL dH2O and stir with a magnetic stirrer until dissolved
 
-3. Once fully dissolved, make up to 1000 mL with dH2O and autoclave
+3. Once fully dissolved, make up to 500 mL with dH2O
 
-**Note:** Any impurities in water/glassware can lead to the formation of white crystals that form during autoclaving. These will dissolve when diluted to 1x when preparing LCFM, so not a huge issue. But remember to swirl the bottle of 10x salts to homogenise the solution before pouring to make LCFM. If you are intent on a no precipitant solution, then filter-sterilisation may be used as an alternative to autoclaving.
+4. In a laminar flowhood, filter sterilise the solution using a sterile syringe and 0.22 μm pore filters into an autoclaved 500 mL bottle.
+
+**Note:** Filter sterilisation of the concentrated salts avoids the formation of white crystals that can occur during autoclaving. This maintains the clarity of the solution which is useful for minimal media where a single carbon source is added as it allows the clear detection of bacterial growth by eye.
 
 ### 1000X Trace metals
 
-1. Add the following to a 250 mL beaker:
-  - 0.28 g FeSO4•7H2O
-  - 0.24 g MnSO4•5H2O
-  - 0.24 g CuSO4•5H2O
-  - 0.28 g ZnSO4•7H2O
+1. Add the following to a 100 mL beaker:
+  - 0.14 g FeSO4•7H2O
+  - 0.12 g MnSO4•5H2O
+  - 0.12 g CuSO4•5H2O
+  - 0.14 g ZnSO4•7H2O
 
-2. Add 80 mL dH2O and stir with a magnetic stirrer until dissolved
+2. Add 40 mL 0.1 M HCl and stir with a magnetic stirrer until dissolved
 
-3. Once fully dissolved, make up to 100 mL with dH2O
+3. Once fully dissolved, make up to 50 mL with 0.1 M HCl
 
-4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into an empty autoclaved 100 mL duran bottle
+4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into a sterile falcon tube
+
+**Note:** The solution will be light blue in colour, for long term storage keep the tube wrapped in aluminium foil at 4 °C. If brown precipitate forms over time, then re-make the solution.
+
+**Note:** The trace metals are also optional for the minimal media, the provide common cofactors for some enzymes which may be of interest.
 
 ### 1 M MgSO4
 
-1. Add the following to a 250 mL beaker:
-  - 24.65 g MgSO4•7H2O
+1. Add the following to a 100 mL beaker:
+  - 12.3 g MgSO4•7H2O
 
-2. Add 80 mL dH2O and stir with a magnetic stirrer until dissolved
+2. Add 40 mL dH2O and stir with a magnetic stirrer until dissolved
 
-3. Once fully dissolved, make up to 100 mL with dH2O
+3. Once fully dissolved, make up to 50 mL with dH2O
 
-4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into an empty autoclaved 100 mL duran bottle
+4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into a sterile falcon tube
 
 ### 1 M CaCl2
 
-1. Add the following to a 250 mL beaker:
-  - 14.7 g CaCl2
+1. Add the following to a 100 mL beaker:
+  - 7.35 g CaCl2
 
-2. Add 80 mL dH2O and stir with a magnetic stirrer until dissolved
+2. Add 40 mL dH2O and stir with a magnetic stirrer until dissolved
 
-3. Once fully dissolved, make up to 100 mL with dH2O
+3. Once fully dissolved, make up to 50 mL with dH2O
 
-4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into an empty autoclaved 100 mL duran bottle
+4. Move into a sterilised laminar flow hood and filter sterilise through 0.22 μm pore using a syringe into a sterile falcon tube
 
 ### Preparing Liquid Carbon Free Media (LCFM)
 
-1. Combine the following in a 1000 mL duran bottle:
-  - 100 mL 10X M9 Salts
-  - 2 mL 1 M MgSO4
-  - 0.1 mL 1 M CaCl2
-  - 1 mL 1000X Trace Metals
+1. Combine the following in a 500 mL duran bottle:
+  - 40 mL 10X M9 Salts
+  - 0.4 mL 1000X Trace Metals
 
-2. Make up to 1000 mL with dH2O
+2. Make up to 400 mL with dH2O
 
-3. The media is now ready for liquid cultures or LCFM agar plates
+3. Autoclave
+
+4. Once cool, in a sterilised laminar flow hood add the following with sterile pipette tips:
+  - 0.8 mL 1 M MgSO4
+  - 80 μL 1 M CaCl2
+
+5. Swirl to mix and the media is now ready for use.
+
+**Note:** Adding MgSO4 prior to autoclaving will result in a cloudy white precipitant that does not re-dissolve. Adding CaCl2 after autoclaving might initially result in a small white preicpitant, but the volume is so small that swirling quickly re-dissolves it to achieve a completely clear bacterial minimal media.
 
 ---
 
 ## Additional notes
-- Trace metals are an optional addition. Some papers add many different trace elements. I add the common metal cofactors which may be important for enzyme activities.
-- I often found that when combining the components for the bacterial LCFM a white precipitant may form that persists after autoclaving, this may pose an issue for 
 
 ---
 
@@ -124,7 +139,7 @@ Microbiology, Minimal, Media, Bacterial, Carbon-Free
 
 ## Disclaimer
 
-This is not an optimised media for growth. Just a carbon-free base.
+This is not an optimised media for growth. Just a clear carbon-free base.
 
 ---
 
@@ -138,6 +153,7 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 
 > Always remember when autoclaving to use a larger glass vessel than the volume you want to autoclave to avoid it boiling over.
 > Always remember to leave the bottle caps loose on duran bottles when autoclaving!
+> Always wear gloves and goggles when handling the 0.1 M HCl
 
 ---
 
@@ -148,3 +164,4 @@ Can adapt any of the volumes for your requirements. Also you can use whatever ot
 | 1.0 | 2025-10-10 | Initial creation of protocol |
 | 1.1 | 2025-10-10 | Added a note on the inclusion of trace metals |
 | 1.2 | 2025-10-23 | Re-ordered to focus on materials and methods |
+| 1.3 | 2025-11-05 | Reduced volumes to be more reasonable and solved precipitation issues |
