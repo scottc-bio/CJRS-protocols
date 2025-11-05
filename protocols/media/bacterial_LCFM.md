@@ -46,7 +46,8 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 - Magnetic stirring equipment (not completely necessary, can stir/shake manually)
 - Laminar flow hood (if unavailable, then can use a bunsen burner and good sterile technique)
 - P1000 pipette + tips
-- 
+- P100 + tips
+- Autoclave
 
 ---
 
