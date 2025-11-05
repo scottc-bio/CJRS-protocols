@@ -2,7 +2,7 @@
 title: Bacterial LCFM preparation
 ---
 
-**Date updated:** 2025-10-10
+**Date updated:** 2025-11-05
 **Author:** Conor JR Scott, Davis Roma 
 **Affiliation:** Università degli Studi di Milano
 **Version:** 1.3
@@ -36,7 +36,6 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 - 500 mL bottle (autoclaved)
 - 100 mL beaker
 
-
 **Plastic**
 - Sterile 50 mL falcon tubes
 - Sterile syringes (largest size possible)
@@ -45,9 +44,10 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 **Equipment**
 - Magnetic stirring equipment (not completely necessary, can stir/shake manually)
 - Laminar flow hood (if unavailable, then can use a bunsen burner and good sterile technique)
-- P1000 pipette + tips
-- P100 + tips
+- P1000 pipette + tips (sterile)
+- P100 + tips (sterile)
 - Autoclave
+- Aluminium foil
 
 ---
 
@@ -129,6 +129,8 @@ A simple protocol for the creation of a basic carbon free minimal media for bact
 ---
 
 ## Additional notes
+
+To make minimal media agar, just add 6 g of bacteriological agar to the LCFM prior to autoclaving.
 
 ---
 
