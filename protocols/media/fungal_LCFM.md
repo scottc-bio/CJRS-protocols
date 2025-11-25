@@ -3,10 +3,14 @@ title: Fungal LCFM preparation
 ---
 
 **Date updated:** 2025-11-05
+
 **Author:** Conor JR Scott, Davis Roma
+
 **Affiliation:** Università degli Studi di Milano
+
 **Version:** 1.2
-**Related DOI:**  
+
+**Related DOI:** [View the published protocol at protocols.io](https://dx.doi.org/10.17504/protocols.io.14egnrjwml5d/v1)
 
 ---
 
