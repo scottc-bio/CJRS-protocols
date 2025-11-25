@@ -3,9 +3,13 @@
 ---
 
 **Date updated:** YYYY-MM-DD  
+
 **Author:** [Name]  
+
 **Affiliation:** [Affiliation]
+
 **Version:** X.X  
+
 **Related DOI:** [protocols.io link]  
 
 ---
