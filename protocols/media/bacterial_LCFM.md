@@ -3,10 +3,14 @@ title: Bacterial LCFM preparation
 ---
 
 **Date updated:** 2025-11-05
-**Author:** Conor JR Scott, Davis Roma 
+
+**Author:** Conor JR Scott, Davis Roma
+
 **Affiliation:** Università degli Studi di Milano
+
 **Version:** 1.3
-**Related DOI:** https://dx.doi.org/10.17504/protocols.io.8epv5kmrdv1b/v1
+
+**Related DOI:** [View the published protocol at protocols.io](https://dx.doi.org/10.17504/protocols.io.8epv5kmrdv1b/v1)
 
 ---
 
