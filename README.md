@@ -12,7 +12,7 @@ This repository will focus mainly on wet lab protocols. For bioinformatic guides
 
 ## 🧠 How to Use
 
-Each protocol is written in **Markdown** (`.md`) format and rendered here as HTML, visit the [repository](https://github.com/scottc-bio/protocols/) itself where files are rendered in HTML in browser or navigate via the live [page](https://scottc-bio.github.io/protocols/), where the major directories are navigable. All changes to protocols are tracked automatically using **Git version control**.
+Each protocol is written in **Markdown** (`.md`) format and rendered here as HTML, visit the [repository](https://github.com/scottc-bio/protocols/) itself where files are rendered in HTML in browser or navigate via the live [page](https://scottc-bio.github.io/CJRS-protocols/), where the major directories are navigable. All changes to protocols are tracked automatically using **Git version control**.
 
 When a protocol is confirmed to have worked, I will publish it:
 [protocols.io](https://www.protocols.io/workspaces/cjr_protocols)
