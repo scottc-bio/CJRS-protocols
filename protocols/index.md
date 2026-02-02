@@ -12,3 +12,4 @@ title: Browse Protocols
 ## Plastic experiments
 
 - [Preliminary BSFL plastic degradation screen](plastic/BSFL_plastic_screen.md)
+- [Washing plastic particles](plastic/plastic_washing.md)
