@@ -1,16 +1,16 @@
 ---
- title: [Washing plastic particles]
+ title: Washing plastic particles
 ---
 
 **Date updated:** 2026-02-02 
 
-**Author:** [Conor JR Scott]  
+**Author:** Conor JR Scott  
 
-**Affiliation:** [University of Milan, Department of Biosciences]
+**Affiliation:** University of Milan, Department of Biosciences
 
 **Version:** 1.0  
 
-**Related DOI:** []  
+**Related DOI:**  
 
 ---
 
@@ -53,13 +53,13 @@ Multiple papers exploring bacterial growth on plastic substrates fail to conside
 **Washing ethanol from plastic particles**
 - Repeat the filtration process as before but use dH2O for any washing of the filter paper into the bottle
 - Add 300 mL dH2O to the bottle and stir for 1 hour
-- Repeath filtration and water washing two more times
+- Repeat filtration and water washing two more times
 
 **Drying plastic particles**
 - For the final filtration, attempt to get as much of the dH20 off the plastic by filtration, use more dH2O to wash the bottle to capture as much of the plastic as possible and filter
 - After the final filtration attempt to minimise the dH2O used to wash the filter paper and maximise the residual dH2O that is removed by filtration
-- Transfer any filtered plastic from the filter paper to a glass beaker using a spatula (or could use something with a larger surface area if you are using a larger volume of plastic)
-- Place in a 40 °C incubator or drying cabinet for 48 hours (or longer if needed) until completely dry
+- Transfer any filtered plastic from the filter paper to a glass beaker using a spatula (or could use a container with a larger surface area if you are using a larger volume of plastic)
+- Place in a 45 °C incubator or drying cabinet for 48 hours (or longer if needed) until completely dry
 
 ---
 
