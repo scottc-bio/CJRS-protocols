@@ -75,6 +75,7 @@ Multiple papers exploring bacterial growth on plastic substrates fail to conside
 3. Transfer any filtered plastic from the filter paper to a glass beaker using a spatula (or could use a container with a larger surface area if you are using a larger volume of plastic)
 
 4. Place in a 45 °C incubator or drying cabinet for 48 hours (or longer if needed) until completely dry
+
 ---
 
 ## Additional notes
