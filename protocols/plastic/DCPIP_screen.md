@@ -2,6 +2,7 @@
 title: DCPIP screening of isolates
 ---
 
+
 **Date updated:** 2026-02-23
 
 **Author:** Conor JR Scott  
@@ -139,7 +140,3 @@ Not statistically reproducible unless performed in triplicate. Designed to scree
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2026-02-23 | Creation of protocol |
-
----
-
-List of acknowledgements
