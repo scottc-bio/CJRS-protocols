@@ -13,3 +13,4 @@ title: Browse Protocols
 
 - [Preliminary BSFL plastic degradation screen](plastic/BSFL_plastic_screen.md)
 - [Washing plastic particles](plastic/plastic_washing.md)
+- [DCPIP screening of bacteria](plastic/DCPIP_screen.md)
