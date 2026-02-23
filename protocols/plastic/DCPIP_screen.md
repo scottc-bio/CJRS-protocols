@@ -1,6 +1,5 @@
-
 ---
- title: DCPIP screening of isolates
+title: DCPIP screening of isolates
 ---
 
 **Date updated:** 2026-02-23
