@@ -3,13 +3,13 @@ title: DCPIP screening of isolates
 ---
 
 
-**Date updated:** 2026-02-23
+**Date updated:** 2026-03-13
 
 **Author:** Conor JR Scott  
 
 **Affiliation:** Department of Biosciences, University of Milan
 
-**Version:** 1.0
+**Version:** 1.1
 
 **Related DOI:** [protocols.io link]  
 
@@ -84,7 +84,7 @@ Protocol for small-scale screening of a bacterial isolate for plastic degradatio
 
 2. Measure the OD at 600 nm and make note
 
-3. Centrifuge the remaining pre-culture at 1000 xg for 5 minutes
+3. Centrifuge the remaining pre-culture at 3000 xg for 5 minutes
 
 4. Discard the supernatant and resuspend the pellet by pipetting in 1 mL sterile PBS
 
@@ -100,7 +100,7 @@ e.g. (0.01 / 0.5) x 10 mL = 0.2 mL
 
 8. Add this volume to each of the four 50 mL falcon tubes prepared
 
-9. Finally, add 3 μL 1 mM DCPIP (final concentration 30 μM) to all tubes, including non-inoculated controls
+9. Finally, add 300 μL 1 mM DCPIP (final concentration 30 μM) to all tubes, including non-inoculated controls
 
 10. Incubate all tubes with lids slightly loose at a 45° angle at 37 °C with shaking at 180 rpm for 7-10 days
 
@@ -140,3 +140,4 @@ Not statistically reproducible unless performed in triplicate. Designed to scree
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2026-02-23 | Creation of protocol |
+| 1.1 | 2026-03-13 | Update the centrifugation speed for pelleting pre-cultures, and corrected DCPIP |
