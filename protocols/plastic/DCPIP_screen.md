@@ -114,7 +114,7 @@ e.g. (0.01 / 0.5) x 10 mL = 0.2 mL
 
 4. Measure OD at 600 nm using bacterial LCFM as the reference
 
-5. To detect redox activity compare the OD in the presence of plastic to the OD in the presence of DCPIP only and the uninoculated DCPIP only control
+5. To detect redox activity compare the reduction of the blue colour, and qunatifiably the reduction in the absorbance of the DCPIP, in the presence of plastic compared to DCPIP only and the uninoculated DCPIP only control
 
 ---
 
