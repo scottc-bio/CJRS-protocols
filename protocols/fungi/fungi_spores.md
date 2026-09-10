@@ -60,6 +60,7 @@ This is a general protocol for the maintenance, spore generation, and stock crea
 - Gauze
 - Light microscope with 40x magnification
 - Clicker for counting
+
 ---
 
 ## Method
@@ -74,6 +75,7 @@ This is a general protocol for the maintenance, spore generation, and stock crea
   - 0.8 g Tryptone
   - 6 g agar
   - 400 mL dH2O
+
 
 2. Autoclave the solution with the lid loose
 
@@ -95,7 +97,8 @@ This is a general protocol for the maintenance, spore generation, and stock crea
    - 0.9 g NaCl
    - 500 μL Tween20
    - 100 mL dH20
-  
+
+
 2. Autoclave the solution with the lid loose and then allow to cool.
 
 3. In a sterilised laminar flow hood, add 2 mL sterile saline solution to the colonised plate.
@@ -142,6 +145,7 @@ This is a general protocol for the maintenance, spore generation, and stock crea
 1. In a 200 mL glass bottle combine the following:
   - 50 mL glycerol
   - 50 mL dH2O
+
 
 2. Autoclave with the lid loose and then allow to cool.
 
