@@ -15,3 +15,7 @@ title: Browse Protocols
 - [Washing plastic particles](plastic/plastic_washing.md)
 - [DCPIP screening of bacteria](plastic/DCPIP_screen.md)
 - [DCPIP screening of BSFL gut community](plastic/gut_DCPIP_screen.md)
+
+## Fungi
+
+- [Maintaining fungi and harvesting spores](fungi/fungi_spores.md)
