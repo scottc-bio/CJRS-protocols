@@ -1,14 +1,14 @@
 ---
- title: Washing plastic particles
+ title: Washing plastic particles for uniformity
 ---
 
-**Date updated:** 2026-02-02 
+**Date updated:** 2026-09-30
 
 **Author:** Conor JR Scott  
 
 **Affiliation:** University of Milan, Department of Biosciences
 
-**Version:** 1.0  
+**Version:** 1.1  
 
 **Related DOI:**  
 
@@ -23,11 +23,11 @@ Multiple papers exploring bacterial growth on plastic substrates fail to conside
 - Plastic particles
 - Funnel
 - Measuring cylinder (500 mL)
-- 500 mL glass bottle
 - 500 mL glass beaker
 - Filter paper
 - Magnetic stirrer + stir bar
 - Spatula
+- 2 % (v/v) SDS
 - 90 % (v/v) ethanol
 - dH2O
 - Syringe / Pipette
@@ -37,38 +37,44 @@ Multiple papers exploring bacterial growth on plastic substrates fail to conside
 
 ## Method
 
+**SDS washing plastic particles**
+1. Weigh 50 g of plastic particles into a 500 mL glass beaker
+
+2. Add 300 mL 2 % (v/v) SDS and a stir bar
+
+3. Place on a magnetic stirrer and stir at a speed high enough to submerge and move all plastic particles (this speed will depend on the size of the particles)
+
+4. Leave to wash for 24 hours
+
+5. Place a funnel into a 500 mL measuring cylinder and line with a double layer of circle filter paper, folding the paper to fit it into the funnel without cutting
+
+6. Slowly add the SDS and plastic solution to the filtering system. It is possible to let the plastic settle and pour mainly the liquid through first. Also not all the plastic needs to be added to the filter as it will be washed again so the SDS solution does not need to be completely removed
+
+7. Use a spatula to scrape the majority of plastic particles caught on the filter paper back into the 500 mL beaker
+
+8. Can use a syringe or a pipette to wash any remaining particles into the beaker using 90 % (v/v) ethanol as this is the next watch step
+
 **Ethanol washing plastic particles**
-1. Weigh 50 g of plastic particles into a 500 mL glass bottle
 
-2. Add 300 mL 90 % (v/v) ethanol and a stir bar
+1. Add 300 mL 90 % (v/v) ethanol
 
-3. Close the bottle with a lid but leave slightly loose
+2. Place back on the magnetic stirrer and stir at a speed high enough to submerge and move all plastic particles
 
-4. Place on a magnetic stirrer and stir at a speed high enough to submerge and move all plastic particles (this speed will depend on the size of the particles)
+3. Leave to wash for 24 hours
 
-5. Leave to wash for 24 hours
+4. Slowly add the ethanol and plastic solution to the filtering system used previously. It is possible to let the plastic settle and pour mainly the ethanol through first. Also not all the plastic needs to be added to the filter as it will be washed again so the ethanol does not need to be completely removed
 
-6. After 24 hours, remove the bottle from the stirrer and remove the stir bar
+5. Use a spatula to scrape the majority of plastic particles caught on the filter paper back into the glass beaker
 
-7. Place a funnel into a 500 mL measuring cylinder and line with a double layer of circle filter paper, folding the paper to fit it into the funnel without cutting
+6. Can use a syringe or a pipette to wash any remaining particles into the beaker using dH2O
 
-8. Slowly add the ethanol and plastic solution to the filtering system. It is possible to let the plastic settle and pour mainly the ethanol through first. Also not all the plastic needs to be added to the filter as it will be washed again so the ethanol does not need to be completely removed.
+**dH2O washing plastic particles**
+1. Add 300 mL dH2O to the beaker and stir for 1 hour
 
-9. Use a spatula to scrape the majority of plastic particles caught on the filter paper back into the glass bottle
-
-10. Can use a syringe or a pipette to wash any remaining particles into the glass bottle using 90 % (v/v) ethanol
-
-11. Add another 300 mL of 90 % (v/v) ethanol to the bottle and repeat the stirring for another 24 hours
-
-**Washing ethanol from plastic particles**
-1. Repeat the filtration process as before but use dH2O for any washing of the filter paper into the bottle
-
-2. Add 300 mL dH2O to the bottle and stir for 1 hour
-
-3. Repeat filtration and water washing two more times
+2. Repeat filtration and water washing two more times
 
 **Drying plastic particles**
-1. For the final filtration, attempt to get as much of the dH20 off the plastic by filtration, use more dH2O to wash the bottle to capture as much of the plastic as possible and filter
+1. For the final filtration, attempt to get as much of the dH2O off the plastic by filtration
 
 2. After the final filtration attempt to minimise the dH2O used to wash the filter paper and maximise the residual dH2O that is removed by filtration
 
@@ -79,7 +85,7 @@ Multiple papers exploring bacterial growth on plastic substrates fail to conside
 ---
 
 ## Additional notes
-It may be of interest to capture in falcon tubes the filtrate from the 1st and 2nd ethanol washes to analyse anything washed from the plastic substrates.
+It may be of interest to capture in falcon tubes the filtrate from the washes to analyse anything washed from the plastic substrates.
 The volumes used here were chosen becuase they allow the volume of plastic that gives 50 g to move well and be more than fully submerged when stirring, for different plastic types then these could easily be changed.
 
 ---
@@ -104,7 +110,7 @@ Can change all the equipment for what suits you.
 
 ## Warning
 
-Can work in a fumehood with 90 % ethanol if worried about the fumes, and obviously ethanol is flammable so never use it near any heat sources or open flames
+Can work in a fumehood with 90 % ethanol if worried about the fumes, and obviously ethanol is flammable so never use it near any heat sources or open flames.
 
 ---
 
@@ -113,3 +119,4 @@ Can work in a fumehood with 90 % ethanol if worried about the fumes, and obvious
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2026-02-02 | Initial creation of the protocol |
+| 1.1 | 2026-09-20 | Addition of the SDS washing step and upload to protocol.io |
