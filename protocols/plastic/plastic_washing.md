@@ -10,7 +10,7 @@
 
 **Version:** 1.1  
 
-**Related DOI:**  
+**Related DOI:**  [View the published protocol at protocols.io](https://dx.doi.org/10.17504/protocols.io.6wgq9r3x3lk5/v1)
 
 ---
 
