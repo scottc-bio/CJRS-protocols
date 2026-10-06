@@ -2,13 +2,13 @@
  title: Preparing hydrocarbons for microbial growth screens
 ---
 
-**Date updated:** 2026-09-11  
+**Date updated:** 2026-10-06  
 
 **Author:** Conor JR Scott  
 
 **Affiliation:** Department of Biosciences, University of Milan
 
-**Version:** 1.0  
+**Version:** 1.1  
 
 **Related DOI:** [protocols.io link]  
 
@@ -38,7 +38,6 @@ Due to the growing interest in microbial degradation of various hydrocarbons, pr
 **Solutions**
 
 - Minimal carbon free media (I have recipes for both [bacterial](https://scottc-bio.github.io/CJRS-protocols/protocols/media/bacterial_LCFM.html) and [fungal](https://scottc-bio.github.io/CJRS-protocols/protocols/media/fungal_LCFM.html) minimal media)
-- Absolute ethanol
 - DMSO
 - dH2O
 
@@ -65,9 +64,9 @@ Due to the growing interest in microbial degradation of various hydrocarbons, pr
 
 **Hexadecane**
 
-Hexadecane is insoluble in aqueous solutions and therefore the best approach is to make a stock in ethanol and dilute from this.
+Hexadecane is insoluble in aqueous solutions and therefore the best approach is to make a stock in DMSO and dilute from this.
 
-1. In a fume hood combine 1 mL of hexadecane with 9 mL absolute ethanol in a 15 mL falcon tube to give a 10 % stock. The ethanol will keep it sterile.
+1. In a fume hood combine 1 mL of hexadecane with 9 mL DMSO in a 15 mL falcon tube to give a 10 % stock.
 
 2. In a sterilised laminar flow hood, add 9.75 mL of minimal media to a 50 mL falcon tube.
 
@@ -75,15 +74,15 @@ Hexadecane is insoluble in aqueous solutions and therefore the best approach is 
 
 **1-Hexadecanol**
 
-Supplied as a waxy solid, insoluble in aqueous solutions. The best approach is to make a stock in ethanol of known concentration then add this to a liquid culture where the precipitant will be distributed through the culture by agitation.
+Supplied as a waxy solid, insoluble in aqueous solutions. The best approach is to make a stock in DMSO of known concentration then add this to a liquid culture where the precipitant will be distributed through the culture by agitation.
 
 1. Weigh 1.2125 g of solid 1-hexadecanol into a 25 mL beaker
 
-2. Add 8 mL absolute ethanol and stir with a magnetic stirrer with mild warming. It should dissolve quickly.
+2. Add 8 mL DMSO and stir with a magnetic stirrer with mild warming. It should dissolve quickly.
 
-3. Transfer to a measuring cylinder and make up to 10 mL with ethanol to create the 500 mM stock solution.
+3. Transfer to a measuring cylinder and make up to 10 mL with DMSO to create the 500 mM stock solution.
 
-4. Transfer the solution a sterile 15 mL falcon tube, the ethanol will keep this sterile.
+4. Transfer the solution a sterile 15 mL falcon tube, the solution will solidify as it cools but can be easily re-melted in a water bath.
 
 5. In the laminar flow hood, add 9.8 mL minimal media to a 50 mL falcon tube.
 
@@ -129,17 +128,17 @@ Supplied as a white powder and is soluble in water. Has surfactant like properti
 
 Supplied as flammable and volatile liquid. Always handle the neat bottle in the fume hood and keep stored in a cabinet for flammables.
 
-1. In the fume hood, combine 1 mL isooctane with 9 mL absolute ethanol in a 25 mL glass bottle to create the 10 % (v/v) isooctane stock.
+1. In the fume hood, combine 1 mL isooctane with 9 mL DMSO in a 25 mL glass bottle to create the 10 % (v/v) isooctane stock.
 
 2. In the laminar flow hood, add 9.75 mL minimal media to a 50 mL falcon tube.
 
-3. Add 250 μL of the 10 % (v/v) stock to give a final concentration of 0.25 %. No precipitant should form.
+3. Agitate the isooctane stock to create an emulsion and then add 250 μL of the 10 % (v/v) stock to give a final concentration of 0.25 %. No precipitant should form.
 
 **2-Octanol**
 
 Supplied as flammable and corrosive liquid. Always handle the neat bottle in the fume hood and keep stored in a cabinet for flammables.
 
-1. In the fume hood, combine 1 mL 2-octanol with 9 mL absolute ethanol in a 25 mL glass bottle to create the 10 % (v/v) 2-octanol stock.
+1. In the fume hood, combine 1 mL 2-octanol with 9 mL DMSO in a 25 mL glass bottle to create the 10 % (v/v) 2-octanol stock.
 
 2. In the laminar flow hood, add 9.75 mL minimal media to a 50 mL falcon tube.
 
@@ -149,7 +148,7 @@ Supplied as flammable and corrosive liquid. Always handle the neat bottle in the
 
 Supplied as flammable and volatile liquid. Always handle the neat bottle in the fume hood and keep stored in a cabinet for flammables.
 
-1. In the fume hood, combine 1 mL 2-octanone with 9 mL absolute ethanol in a 25 mL glass bottle to create the 10 % (v/v) 2-octanone stock.
+1. In the fume hood, combine 1 mL 2-octanone with 9 mL DMSOin a 25 mL glass bottle to create the 10 % (v/v) 2-octanone stock.
 
 2. In the laminar flow hood, add 9.75 mL minimal media to a 50 mL falcon tube.
 
@@ -159,7 +158,7 @@ Supplied as flammable and volatile liquid. Always handle the neat bottle in the 
 
 Ethylbenzene is toxic if inhaled. Only handle the neat liquid, any diluted stocks, or any cultures containing ethylbenzene in the fume hood. Always wear safety glasses, and a mask. Store all stock and diluted solutions in an appropriate fume hood cabinet.
 
-1. In the fume hood, combine 1 mL ethylbenzene with 9 mL absolute ethanol in a 25 mL glass bottle to create the 10 % (v/v) ethylbenzene stock.
+1. In the fume hood, combine 0.1 mL ethylbenzene with 0.9 mL DMSO in a 25 mL glass bottle to create the 10 % (v/v) ethylbenzene stock.
 
 2. In the laminar flow hood, add 9.75 mL minimal media to a 50 mL falcon tube.
 
@@ -254,5 +253,6 @@ Disposal of any waste will depend on your lab and local regulations. Don't throw
 | Version | Date | Changes |
 |----------|------|----------|
 | 1.0 | 2026-09-14 | Initial creation of the protocol. |
+| 1.1 | 2026-10-06 | Changed ethanol diluent to DMSO as ethanol can be used fairly easily for growth and therefore masks the screening. |
 
 ---
